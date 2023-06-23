@@ -31,6 +31,7 @@ section#telefone {
     width: 311px;
     transform: translate(-50%, -50%);
     background: url('../imagens/frame-iphone.png');
+    margin: 20px;
 }
 
 iframe#tela {
@@ -43,11 +44,11 @@ iframe#tela {
 
 }
 section#redes-sociais {
-    text-align: right;
+    text-align: center;
 }
 
 section#redes-sociais > a > img {
-    width: 45px;
+    width: 40px;
     margin: 15px;
     border-radius: 50%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.438);
